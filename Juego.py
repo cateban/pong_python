@@ -155,7 +155,7 @@ victoria = turtle.Turtle()
 victoria.speed(0)
 victoria.color("White")
 victoria.penup()
-victoria.hideturtle() #que pasa aca?
+victoria.hideturtle() 
 victoria.goto(0,0)
 
 #mensaje de salida SetUp
